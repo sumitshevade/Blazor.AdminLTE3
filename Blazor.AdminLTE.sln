@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30711.63
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blazor.AdminLTE", "Blazor.AdminLTE\Blazor.AdminLTE.csproj", "{A009BAEA-1D09-4A02-89AA-557B2B37CDA9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blazor.AdminLTE3", "Blazor.AdminLTE\Blazor.AdminLTE3.csproj", "{A009BAEA-1D09-4A02-89AA-557B2B37CDA9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

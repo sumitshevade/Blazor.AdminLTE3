@@ -16,7 +16,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "Blazor.AdminLTE": {
+    "Blazor.AdminLTE3": {
       "commandName": "Project",
       "dotnetRunMessages": "true",
       "launchBrowser": true,
